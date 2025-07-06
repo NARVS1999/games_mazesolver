@@ -9,7 +9,7 @@ features:
 - Win detection on reaching goal
 - Timer optional
 
-Demo: 
+Demo: https://narvs1999.github.io/games_mazesolver/
 
 ![Demo Image](demo-image.png)
 
